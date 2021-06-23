@@ -1,0 +1,13 @@
+Grid is ['RRD', 'RED', 'ULL']
+['R', 'R', 'D']
+['R', 'E', 'D']
+['U', 'L', 'L']
+R
+R
+D
+D
+L
+L
+U
+R
+E
